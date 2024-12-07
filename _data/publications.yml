@@ -1,0 +1,65 @@
+main:
+  - title: "Relational Verification Leaps Forward With RABBit"
+    authors: <strong>Tarun Suresh*</strong>, Debangshu Banerjee*, Gagandeep Singh
+    conference_short: NeurIPS
+    conference: The Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024
+    pdf: https://openreview.net/pdf/3ae0ff26b47452acd364e62b3457ac330522843a.pdf
+    code: https://github.com/uiuc-focal-lab/RABBit
+    image: ./assets/img/rabbit_squared.png
+
+  - title: "Incremental Randomized Smoothing Certification"
+    authors: Shubham Ugare, <strong>Tarun Suresh</strong>, Debangshu Banerjee, Sasa Misailovic, Gagandeep Singh
+    conference_short: ICLR
+    conference: The Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>, 2024
+    pdf: https://arxiv.org/pdf/2305.19521
+    code: https://github.com/uiuc-arc/Incremental-DNN-Verification
+    image: ./assets/img/irs_squared.png
+
+  - title: "Is Watermarking LLM Generated Code Robust?"
+    authors: <strong>Tarun Suresh</strong>, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
+    conference_short: Tiny ICLR
+    conference: The Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>, 2024 Tiny Papers
+    pdf: https://arxiv.org/pdf/2403.17983
+    code: https://github.com/uiuc-arc/llm-code-watermark
+    notes: ORAL PRESENTATION
+    image: ./assets/img/lpw_squared.png
+
+  - title: "CoRNStack: High-Quality Contrastive Data for Better Code Retrieval and Reranking"
+    authors: <strong>Tarun Suresh*</strong>, Revanth Gangi Reddy*, Yifei Xu, Zach Nussbaum, Andriy Mulyar, Brandon Duderstadt, Heng Ji
+    pdf: https://arxiv.org/pdf/2412.01007
+    code: https://github.com/gangiswag/cornstack 
+    page: https://gangiswag.github.io/cornstack/
+    notes: Under Review
+    image: ./assets/img/cornstack_squared.png
+
+  - title: "SynCode: LLM Generation with Grammar Augmentation"
+    authors: Shubham Ugare, <strong>Tarun Suresh</strong>, Hangoo Kang, Sasa Misailovic, Gagandeep Singh
+    pdf: https://arxiv.org/pdf/2403.01632
+    notes: Under Review
+    image: ./assets/img/syncode_squared.png
+
+  - title: "IterGen: Iterative Structured LLM Generation"
+    authors: Shubham Ugare, Rohan Gumaste,<strong>Tarun Suresh</strong>, Gagandeep Singh, Sasa Misailovic
+    pdf: https://arxiv.org/pdf/2410.07295
+    notes: Under Review
+    image: ./assets/img/itergen_squared.png
+
+  - title: "Tamper-Resistant Safeguards for Open-Weight LLMs"
+    authors: Rishub Tamirisa, Bhrugu Bharathi, Long Phan, Andy Zhou, Alice Gatti, <strong>Tarun Suresh</strong>, Maxwell Lin, Justin Wang, Rowan Wang, Ron Arel, Andy Zou, Dawn Song, Bo Li, Dan Hendrycks, Mantas Mazeika
+    pdf: https://arxiv.org/pdf/2408.00761
+    notes: Under Review
+    image: ./assets/img/tar_squared.png
+
+  - title: "Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions"
+    authors: Yinglun Xu, <strong>Tarun Suresh</strong>, Rohan Gumaste, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, Qi Zeng, Chao Zhang, Gagandeep Singh
+    pdf: https://arxiv.org/pdf/2401.00330
+    notes: Under Review.
+    image: ./assets/img/prc_squared.png
+
+  - title: "Towards Continuous Verification of DNNs"
+    authors: Shubham Ugare, Debangshu Banerjee, <strong>Tarun Suresh</strong>, Gagandeep Singh, Sasa Misailovic
+    conference_short: WFML
+    conference: 2nd Workshop on Formal Verification of Machine Learning @ The Fortieth International Conference on Machine Learning <strong>(WFML @ ICML)</strong>, 2023
+    pdf: https://arxiv.org/pdf/2305.19521
+    code: https://github.com/uiuc-arc/Incremental-DNN-Verification
+    image: ./assets/img/cdnn_squared.png
